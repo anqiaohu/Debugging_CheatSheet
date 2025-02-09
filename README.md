@@ -15,7 +15,7 @@ J. Hu,  "Microelectronics Debugging Cheatsheet,"  [Online].  Available: <https:/
 ```
 
 ## Usage
-- Download the latest **[cheatsheet.pdf](cheatsheet.pdf)**
+- Download the latest **[Debugging_CheatSheet.pdf](/pdf/Debugging_CheatSheet.pdf)**
 - Compile the LaTeX source (`main.tex`) using Overleaf or a local TeX editor.
 
 ## Contributing
